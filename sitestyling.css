@@ -1,0 +1,35 @@
+/* CSS Used in site */
+
+body 
+{
+  background-image: url('purplesky.jpg');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color:#333333;
+  cursor: url(https://cur.cursors-4u.net/nature/nat-11/nat1002.cur), auto !important;
+}
+
+.header {
+	background-image: url(pexels-photo-4794537.png);
+	background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+	width:100%;
+	height:100px;
+}
+.userlogin_container {
+  background-color: rgba(255, 255, 255, 0.5);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color:#333333;
+  width: 33%;
+  margin-right: auto;
+  margin-left: auto
+}
+.userlogin_transparency {
+	  opacity: 0.5;
+}
