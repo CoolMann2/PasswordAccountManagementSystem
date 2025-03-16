@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="sitestyling.css">
+</head>
+<body>
+<!--Silly addition-->
+<center><h1 style="color:rgb(255, 0, 0);">You have found the cool dancing dolphin, well done!</h2></center>
+<center><img src="chillpin.gif" height=45% width=45% alt="chillpin"></center>
+<center><a href="Password Account Management Page.html">[Go back]</a></center>
+</body>
+</html>
